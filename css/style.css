@@ -600,7 +600,7 @@ a {
 
 .site-block-half .bg-image {
   background-position: center center; }
-  @media (max-width: 2000.98px) {
+  @media (max-width: 7000.98px) {
     .site-block-half .bg-image {
       height: 400px; } }
 
