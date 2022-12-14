@@ -73,8 +73,8 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-secondary {
-    background-color: #e6e7e9;
-    border-color: #e6e7e9;
+    background-color:#CCB7E5;
+    border-color:#CCB7E5;
     color: #000; }
   .btn.btn-sm {
     font-size: 0.9rem; }
@@ -89,7 +89,7 @@ a {
       color: #000; }
 
 .bg-black {
-  background:  #CCB7E5; }
+  background:  #000; }
 
 .form-control {
   height: 47px; }
